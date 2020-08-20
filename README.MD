@@ -39,7 +39,7 @@ Após estar com ambiente pronto, deve-se criar o banco de dados:
 - Executar, na pasta "server", o comando "yarn run knex:migrate"
 
 
-## Executando o projeto
+## Executando o projeto 
 
 Para utilizar, basta iniciar cada parte do projeto:
 
