@@ -4,9 +4,9 @@ Desenvolvido por [Renan Queiroz](https://www.rqweb.com.br) | [renan@rqweb.com.br
 
 Aplicação criada para conectar alunos e professores. Os professores, através de uma aplicação WEB conseguem cadastrar suas aulas disponíveis (dia de semana, horário e matéria), e o aluno consegue encontrar essas aulas, tanto pela WEB quanto pelo aplicativo, de acordo com suas necessidades, e a partir daí se conectar a um professor.
 
-O Aplicativo mobile ainda permite salvar os professores favoritos em local storage.
+O Aplicativo mobile ainda permite salvar os professores favoritos utilizando local storage.
 
-A parte WEB com layout responsivo desenvolvido 
+A parte WEB com layout responsivo utilizando o conceitop Mobile-First. 
 
 Foi contruída uma base de dados em SQLite para armazenar as informações, além de APIs, criadas em NODE.js, para que a aplicação WEB (react.js) e o aplicativo mobile (React Native) consigam interagir corretamente.
 
